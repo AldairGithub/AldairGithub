@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AldairGithub
-- 👀 I’m interested in working as a Software Developer
+- 👀 I’m interested in honing my skills. Currently working as a full-stack software developer
 - 🌱 I’m currently learning more React tricks and tips!
 - 💞️ I’m looking to collaborate on any or many projects
 - 📫 How to reach me: acarneiro1413@gmail.com
